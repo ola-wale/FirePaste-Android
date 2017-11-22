@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671675266036",
+    "firebase_url": "https://firepaste-adabe.firebaseio.com",
+    "project_id": "firepaste-adabe",
+    "storage_bucket": "firepaste-adabe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671675266036:android:1b72c5e16a1265a2",
+        "android_client_info": {
+          "package_name": "doublewale.firepaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671675266036-98bf9o5bdfolf484v762ln50s42pgm0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doublewale.firepaste",
+            "certificate_hash": "df2bd6a279f8b44ac041f276cf232c4489ae763c"
+          }
+        },
+        {
+          "client_id": "671675266036-24sdn5op84qg06g5ri22fr9ulb6aenef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WFjghOksIfhqoOSRgFOJJgXJOdUIr9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671675266036-24sdn5op84qg06g5ri22fr9ulb6aenef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
